@@ -1,0 +1,42 @@
+GET https://www.snuckls.com/TDetails HTTP/1.1
+Host: www.snuckls.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.snuckls.com/video/videofeed
+Cookie: ci_session=5960574ba14f967df134e3b2445093bf1cb5ee7b; __cfduid=d61e6341e62dd6870309a270a0a0c60171491014420
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+HTTP/1.1 200 OK
+Date: Wed, 05 Apr 2017 06:16:15 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: ci_session=5960574ba14f967df134e3b2445093bf1cb5ee7b; expires=Sun, 22-Jun-2025 06:16:15 GMT; Max-Age=259200000; path=/; HttpOnly
+Server: cloudflare-nginx
+CF-RAY: 34aa60a5ce931b9d-SEA
+Content-Length: 114
+
+{"response":"success","next_video_url":"https:\/\/www.snuckls.com\/TDetails","direct_redirect":1,"response_ep":[]}
+
+POST https://www.snuckls.com/video/videofeedback/ea701bcac64c72ddd62620f86dc8b7ee HTTP/1.1
+Host: www.snuckls.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: application/json, text/javascript, */*; q=0.01
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+X-Requested-With: XMLHttpRequest
+Referer: https://www.snuckls.com/video/videofeed
+Content-Length: 247
+Cookie: ci_session=5960574ba14f967df134e3b2445093bf1cb5ee7b; __cfduid=d61e6341e62dd6870309a270a0a0c60171491014420
+Connection: keep-alive
+
+emojiid=21&user_watched_time=124&total_video_duration=185&progress_value=77&systemduration_timer=127&video_session_index=0&catArr%5B%5D=21&catArr%5B%5D=21&catArr%5B%5D=21&catArr%5B%5D=21&captcha_value=&videosString=ea701bcac64c72ddd62620f86dc8b7ee
+
+GET https://www.snuckls.com/video/getthevideoindexdata/0/c4c1ed6188821fa041d659fd869fe41d HTTP/1.1
+Host: www.snuckls.com

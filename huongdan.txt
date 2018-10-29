@@ -1,0 +1,66 @@
+﻿**Tính năng chính
+~~~Tab Auto~~~
++ Nhanh: auto chạy nhanh, Chậm: chậm hơn 5 giây
++ Ngẫu nhiên:
+	. Chế độ thông minh: nếu video là Nhạc sẽ chọn Hip hop (vì auto k phân biệt đc các loại nhạc), nếu ko phải nhạc thì auto chọn Others
+	. Chọn bằng tay: chọn bằng tay
+	. Rock, Pop, Hip hop, Others: các bạn chọn cái nào thì Auto sẽ ngẫu nhiên chọn những cái đó (với điều kiện các bạn k chọn Chế độ thông minh hoặc Tự chọn)
++ Nhiều acc: mở Firefox vs profile tạo sẵn
++ Tùy chỉnh nhẫu nhiên số:
+	. Từ trái -> phải, trên -> dưới là vé 1 -> 10
+	. x nghĩa là ngẫu nhiên
++ Bắt đầu: chạy auto
++ Hướng dẫn: mở file hướng dẫn
+
+~~~Tab Firefox~~~
++ Tạo Profile: tạo profile mới với tên được nhập
++ Mở: mở profile với tên được nhập
+-----------------------------------------------------------------------------------
+**Đối với các bạn auto 1 tài khoản duy nhất
++B1: Cài đặt Firefox, mở Firefox lên
++B2: Tải Mozrepl Addon: 
+	. Vào trang: https://addons.mozilla.org/en-us/firefox/addon/mozrepl/
+	. Bấm "Thêm vào Firefox"
+	. Chọn "Cài đặt"
+	. Chọn "Khởi động lại ngay"
+	. Chờ Firefox mở lại
++B3: Bấm Alt để hiện thanh trên cùng
++B4: Tools (Công cụ) -> Mozrepl -> Start
++B5: Tools (Công cụ) -> Mozrepl -> Activate on startup
++B6: Đăng nhập Snuckls
+
++B7: Mở AutoSnucklsFF.exe lên và chạy (lưu ý không chọn "Nhiều acc")
+
+--------------------------------------------------------------------------------------
+**Đối với các bạn auto nhiều tài khoản
++B1: Cài đặt Firefox, tắt Firefox đi
++B2: Mở AutoSnucklsFF.exe lên, chuyển qua tab Firefox
++B3: Nhập Profile1 -> Tạo mới
++B4: Bấm "Mở"
++B5: Tải Mozrepl Addon: 
+	. Vào trang: https://addons.mozilla.org/en-us/firefox/addon/mozrepl/
+	. Bấm "Thêm vào Firefox"
+	. Chọn "Cài đặt"
+	. Chọn "Khởi động lại ngay"
+	. Chờ Firefox mở lại
++B6: Bấm Alt để hiện thanh trên cùng
++B7: Tools (Công cụ) -> Mozrepl -> Start
++B8: Tools (Công cụ) -> Mozrepl -> Activate on startup
++B9: Tools (Công cụ) -> Mozrepl -> Change Port
+	. Xóa giá trị 4242 và nhập 4243 và bấm OK (ko phải 4242 mà là 4243)
++B10: Đăng nhập Snuckls
++B11: Lặp lại từ B3 đến B10 nhưng đổi: 
+	. Profile1 -> Profile2
+	. 4242 -> 4244
++B12: Lặp lại từ B3 đến B10 nhưng đổi: 
+	. Profile2 -> Profile3
+	. 4242 -> 4245
+......
+Nhiều Profile thì nhiều tài khoản Facebook
+
++B13: Mở AutoSnucklsFF.exe lên và chọn "Nhiều acc"
++B14: Mở AutoSnucklsFF.exe lên và chọn "Nhiều acc"
++B15: Mở AutoSnucklsFF.exe lên và chọn "Nhiều acc"
+	. Mỗi lần mở, giá trị Profile và Port sẽ tự tăng lên
+
++B16: Bắt đầu

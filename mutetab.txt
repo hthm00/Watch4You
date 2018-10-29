@@ -1,0 +1,6 @@
+﻿***Cách tắt âm cho Firefox
++B1: Mở Firefox lên (đối vs các bạn có nhiều Profile thì vào từng profile thêm tiện ích vào)
++B2: Vào web: https://addons.mozilla.org/en-us/firefox/addon/muteemall/
++B3: Bấm "Thêm vào Firefox"
++B4: Bấm "Cài đặt"
++Vậy là xong

@@ -1,0 +1,42 @@
+﻿v5.3.0.0
++ Fix lỗi "Đang đăng nhập ở chỗ khác"
++ Nếu bị lỗi "(1) Lỗi trong quá trình xử lý" thì hãy vào link sau: https://www.facebook.com/groups/1829937350594308/permalink/1854649604789749/
+-------------------------------------------
+v5.0.0.1
++ Auto tiếp tục chạy nếu bị lỗi "(1) Lỗi trong quá trình xử lý"
+-------------------------------------------
+v5.0.0.0
++ Trả lời đúng 100%
++ Khoảng 20s / 1video (20' chạy xong)
++ Những lưu ý:
+	. Captcha nhập bằng tay, auto sẽ thông báo khi có captcha
+	. Auto chạy ngầm nên các bạn sẽ k thấy gì trên Firefox cả, chỉ 1 vài cái
+	. Cập nhật này sẽ có nhiều máy sẽ k chạy đc
+		- Nếu k chạy đc hãy thử tắt Firewall https://quantrimang.com/cach-tat-bat-windows-firewall-trong-windows-7-68908
+	. Sai tk và mk: ib mình tên fb+tk+mk
+	. Đang đăng nhập ở chỗ khác: server mình quá tải nên k kết nối đc nên các b bị văng ra
+-------------------------------------------
+v4.1.0.0
++ Cập nhật
+-------------------------------------------
+v4.0.0.0
++ Snuckls thêm captcha (mã xác nhận) nên auto ko vượt qua đc, khi nào có Captcha auto sẽ thông báo để các bạn nhập vào
++ Snuckls thêm nhiều lựa chọn hơn thay vì chỉ Rock, Pop, Hip hop và Others, nên auto sẽ tải lại trang 2 lần để dò kết quả gần đúng (mặc dù v sai vẫn nhiều)
+-------------------------------------------
+v3.1.0.0
++ Auto 1 tab duy nhất để tránh bị lag vs máy yếu
+-------------------------------------------
+v3.0.0.0
++ Quay về cách cũ, cheat xem nhanh
++ 5' xong 10 tickets
+-------------------------------------------
+v2.1.0.0
++ Giảm thời gian 1 lần xem
++ Thời gian nhanh hơn auto cũ chừng 1-2 phút
+-------------------------------------------
+v2.0.0.4
++ Thêm tính năng "Tắt âm Firefox"
+-------------------------------------------
+v2.0.0.0
++ Chạy 6 tab => đảm bảo lượt view cho Youtube => Snuckls sẽ ko sập
++ Bỏ tính năng "Chọn bằng tay"
