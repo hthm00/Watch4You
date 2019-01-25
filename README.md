@@ -10,4 +10,6 @@ _ Only registered account can be used.
 
 _ Auto will be updated when new version is out.
 
+![alt Auto](https://github.com/hthm00/AutoSnuckls/blob/master/AutoSnuckls.PNG)
+
 
