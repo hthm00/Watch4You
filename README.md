@@ -11,7 +11,7 @@ It will automate the task of watching movies and answering quiz.
 ## How I built it
 * AutoIT is an excellent language for such task, so I used that to built the program.
 * I needed a webserver to, so I chose 000webhost.com and MySQL database.
-* I also an admin of a facebook group with over 1,000 members to distribute my work for others, free of charge 
+* I am also an admin of a facebook group with over 1,000 members to distribute my work for others, free of charge 
 [Facebook Group](https://www.facebook.com/groups/1829937350594308)
 
 ## Challenges I ran into
